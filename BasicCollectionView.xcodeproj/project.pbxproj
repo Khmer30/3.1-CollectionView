@@ -12,6 +12,7 @@
 		747A839C2861E38A0090D595 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 747A839A2861E38A0090D595 /* Main.storyboard */; };
 		747A839E2861E38B0090D595 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 747A839D2861E38B0090D595 /* Assets.xcassets */; };
 		747A83A12861E38B0090D595 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 747A839F2861E38B0090D595 /* LaunchScreen.storyboard */; };
+		747A83A92861E4D20090D595 /* BasicCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 747A83A82861E4D20090D595 /* BasicCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		747A839D2861E38B0090D595 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		747A83A02861E38B0090D595 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		747A83A22861E38B0090D595 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		747A83A82861E4D20090D595 /* BasicCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				747A83942861E38A0090D595 /* AppDelegate.swift */,
 				747A83962861E38A0090D595 /* SceneDelegate.swift */,
 				747A839A2861E38A0090D595 /* Main.storyboard */,
+				747A83A82861E4D20090D595 /* BasicCollectionViewController.swift */,
 				747A839D2861E38B0090D595 /* Assets.xcassets */,
 				747A839F2861E38B0090D595 /* LaunchScreen.storyboard */,
 				747A83A22861E38B0090D595 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				747A83952861E38A0090D595 /* AppDelegate.swift in Sources */,
+				747A83A92861E4D20090D595 /* BasicCollectionViewController.swift in Sources */,
 				747A83972861E38A0090D595 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
